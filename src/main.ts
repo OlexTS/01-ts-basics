@@ -3,3 +3,4 @@ function App() {
   console.log('Hello TS');
   
 }
+App()
